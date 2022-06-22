@@ -1,4 +1,4 @@
-## olá! Eu sou Jorge Pereira.
+## Olá! Eu sou Jorge Pereira.
 
 - 🌱 Estudando Typescript e ReactJS
 
