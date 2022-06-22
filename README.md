@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jorge Pereira.
 
-- 🌱 Estudando Typescript e ReactJS
+- 🌱 Aprendendo Typescript e ReactJS
 
 <div align="center">
   <a href="https://github.com/JPereira29">
