@@ -1,16 +1,19 @@
-## Olá! Eu sou Jorge Pereira.
+# Jorge Pereira
 
-- 🌱 Aprendendo NextJS && C#
-
+Olá, me chamo Jorge Pereira, sou desenvolvedor web.
+##
 <div align="center">
   <a href="https://github.com/JPereira29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPereira29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPereira29&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
+##
+## Tecnologias
 
 <div style="display: inline_block">
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -21,9 +24,7 @@
   ##
 
 <div>
-  <a href="mailto:jorgepereira29ele@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jorge-pereira-3b8425241/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-  
+  <a href="https://www.linkedin.com/in/jorge-pereira29/"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" /></a>
+  <a href="mailto:jorgepereira29ele@gmail.com"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" /></a>
 </div>
   
