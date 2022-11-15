@@ -2,6 +2,8 @@
 
 Olá, me chamo Jorge Pereira, sou desenvolvedor web.
 ##
+<h2><a href="https://portfolio-jpereira29.vercel.app">Portfólio</a></h2>
+
 <div align="center">
   <a href="https://github.com/JPereira29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPereira29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +25,7 @@ Olá, me chamo Jorge Pereira, sou desenvolvedor web.
   
   ##
 
+## Contatos
 <div>
   <a href="https://www.linkedin.com/in/jorge-pereira29/"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" /></a>
   <a href="mailto:jorgepereira29ele@gmail.com"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" /></a>
