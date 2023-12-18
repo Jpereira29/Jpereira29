@@ -1,35 +1,28 @@
-# Jorge Pereira
-
-Olá, me chamo Jorge Pereira, sou desenvolvedor web.
+Olá, eu sou Jorge Pereira! 👋
 ##
-<h2><a href="https://portfolio-jpereira29.vercel.app">Portfólio</a></h2>
+Sou um entusiasta da tecnologia e um desenvolvedor web full-stack com experiência em Vue.js e .NET. Ao longo da minha carreira, tenho trabalhado em projetos desafiadores, buscando sempre aprimorar minhas habilidades e oferecer soluções eficientes.
 
-<div align="center">
-  <a href="https://github.com/JPereira29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPereira29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPereira29&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-##
-## Tecnologias
+## 💼 Experiência Profissional
 
-<div style="display: inline_block">
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-  
-  ##
+Atualmente, trabalho como desenvolvedor full-stack, utilizando Vue.js para a construção de interfaces modernas e .NET para o desenvolvimento do back-end. Minha experiência abrange desde a concepção até a implementação de soluções robustas.
 
-## Contatos
-<div>
-  <a href="https://www.linkedin.com/in/jorge-pereira29/"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" /></a>
-  <a href="mailto:jorgepereira29ele@gmail.com"><img align="center" src="https://img.icons8.com/color/48/null/apple-mail.png" /></a>
-</div>
-  
+## 🚀 Tecnologias que Utilizo.
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=dot-net)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt.js)
+![Vuetify](https://img.shields.io/badge/Vuetify-blue?style=for-the-badge&logo=vuetify)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-gray?style=for-the-badge&logo=microsoft-sql-server)
+
+## 🤝 Como Posso Contribuir
+
+Estou sempre aberto a colaborações e feedback. Se você tiver sugestões, correções ou quiser contribuir para algum dos meus projetos, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
+
+## 📫 Entre em Contato
+
+- LinkedIn: [Jorge Pereira](https://www.linkedin.com/in/jorge-pereira29)
+- Email: <a href="https://www.linkedin.com/in/jorge-pereira29/">jorgepereira29ele@gmail.com</a>
+
