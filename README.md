@@ -23,6 +23,6 @@ Estou sempre aberto a colaborações e feedback. Se você tiver sugestões, corr
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Jorge Pereira](https://www.linkedin.com/in/jorge-pereira29)
+- LinkedIn: [Jorge Pereira](https://www.linkedin.com/in/jorgepereira29)
 - Email: <a href="https://www.linkedin.com/in/jorge-pereira29/">jorgepereira29ele@gmail.com</a>
 
